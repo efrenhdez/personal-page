@@ -9,7 +9,7 @@ La estructura de la página se realizó con HTML, los estilos se generaron media
 * [Portafolio Web](https://efrenhdez.github.io/mi-portafolio/)
 
 ## Ver ejemplo en vivo 🔭
-https://efrenhdez.github.io/Blog-Desarrollo/
+https://efrenhdez.github.io/personal-page/
 
 ## Contratación 📫
 Si quieres contratarme puedes escribirme a efrenhdezcantoral@gmail.com para consultas.
